@@ -36,7 +36,7 @@ Future<List<Aluno>> carregarAlunos(String caminho) async {
 
 void main() async {
   print('Carregando dados dos alunos...');
-  var listaAlunos = await carregarAlunos('alunos_2b.csv');
+  var listaAlunos = await carregarAlunos('arquivos/alunos_2b.csv');
 
   print('Total de alunos carregados: ${listaAlunos.length}');
   print('');
