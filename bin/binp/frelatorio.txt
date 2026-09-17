@@ -1,7 +1,0 @@
-relatorio do arquivo:
-quantidade de linhas: 4
- 
-Ana  
-Bruno
-Carlos
-Daniela
